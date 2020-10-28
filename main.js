@@ -55,7 +55,6 @@ class Outcome {
     }
 }
 
-// let move = argv.move
 let player = new Player()
 let computer = new Computer()
 let outcome = new Outcome()
