@@ -1,0 +1,23 @@
+{
+  "name": "ussf-roshambo",
+  "version": "1.0.0",
+  "description": "rock paper scissors game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyhosoya/ussf-roshambo.git"
+  },
+  "keywords": [
+    "javascript",
+    "yargs"
+  ],
+  "author": "emilyhosoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilyhosoya/ussf-roshambo/issues"
+  },
+  "homepage": "https://github.com/emilyhosoya/ussf-roshambo#readme"
+}
