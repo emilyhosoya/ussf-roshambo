@@ -24,8 +24,7 @@ class Player {
 }
 
 class Computer {
-    constructor(playerChoice) {
-        this.playerChoice = playerChoice
+    constructor() {
         this._choices = ['rock', 'paper', 'scissors']
         this.currentChoice
     }
