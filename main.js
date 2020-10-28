@@ -31,9 +31,8 @@ class Computer {
 
     showChoice() {
         let randomizer = Math.floor(Math.random() * Math.floor(3))
-        let computerChoice = this._choices[randomizer]
-        console.log(`Computer plays ${computerChoice}!`)
-        this.currentChoice = computerChoice
+        this.currentChoice = this._choices[randomizer]
+        console.log(`Computer plays ${this.currentChoice}!`)
     }
 }
 
